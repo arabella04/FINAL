@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="FINAL.Form1" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEEChAACAAAACAAAACAAAAAAAABEAAAIEAAAA=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form2" />
+      <Property Name="Form3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FINAL.Form2" Collapsed="true">
+    <Position X="0.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAAAACAAAgCAAAQQAAIAEAIAAAAgAA=</HashCode>
+      <FileName>Form2.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form4" />
+      <Property Name="Form5" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FINAL.Form3" Collapsed="true">
+    <Position X="0.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAEQAEDAAAAgAAACAUAgKAAAAQCAABEAAAAAAACA=</HashCode>
+      <FileName>Form3.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form6" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FINAL.Form4" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAEOAAAAkAAACAEIkSIACYgAgAAMAkRAAAAAA=</HashCode>
+      <FileName>Form4.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form7" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FINAL.Form5" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAECAAAGAAAECAAAACAAAAAkAAAEgBAAAAAAA=</HashCode>
+      <FileName>Form5.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FINAL.Form6" Collapsed="true">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAJCxQAUGAQQQEAAACgVhkaJQT/5SiRIOBlZEhAEEE=</HashCode>
+      <FileName>Form6.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FINAL.Form7" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAwRQEGCBAQABAICCEDsrJDb/CShgMMUmBGSCgAE=</HashCode>
+      <FileName>Form7.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FINAL.Form8" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACAAAgCAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form8.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FINAL.My.MyApplication" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FINAL.My.MySettings" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ContainerControl" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.ScrollableControl" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.ScrollableControl.DockPaddingEdges" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="System.Windows.Forms.ScrollableControl.DockPaddingEdgesConverter" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Module Name="FINAL.Module1" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAAAAAAAAAQAAAAAAAgAAAAAAQA=</HashCode>
+      <FileName>Module1.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="FINAL.My.MySettingsProperty" Collapsed="true">
+    <Position X="20.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="FINAL.My.Resources.Resources" Collapsed="true">
+    <Position X="18.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAAAAAABkAFAARAAAAAAIAAAIEAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
